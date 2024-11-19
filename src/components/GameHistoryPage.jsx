@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from "react";
-import axios from "axios";
+import React from "react";
 import '../styles/GameHistoryPage.css'
 import { useNavigate } from "react-router-dom";
 import { useGameContext } from "../context/GameContext";
