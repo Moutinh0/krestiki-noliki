@@ -1,0 +1,31 @@
+.controls {
+    margin: 20px;
+    text-align: center;
+}
+
+.controls select {
+    margin: 0 10px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.controls button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.controls button:hover {
+    background-color: #0056b3;
+}
+
+.info p {
+    margin: 10px 0;
+    font-size: 18px;
+}

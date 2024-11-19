@@ -1,0 +1,15 @@
+.history {
+    margin: 20px;
+    text-align: center;
+}
+
+.history ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.history li {
+    margin: 5px 0;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
